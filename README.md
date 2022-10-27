@@ -1,4 +1,4 @@
-# Unsupervised Learning  A to Z with Python
+# Unsupervised Learning  AtoZ
 
 ![Image](images/unsup_header.png)
 
